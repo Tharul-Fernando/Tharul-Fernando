@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Tharul Nithwara! 👋
 
-<!--
-**Tharul-Fernando/Tharul-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm an undergraduate student following AI & DS degree pathway at Informatics Institute of Technology (IIT). I am a fist year student who has just began his journey.I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Data Science basic concepts
+- 🔭 Working on: 
+- 🌍 Languages: Python
+- 📫 How to reach me: tharulnithwara@gmail.com
+                       tharul20250311@iit.ac.lk
+
+
+## My Skills 🧠
+ ! Python
+ ! SQL
+
+## Featured Projects 💻
+
+
+## Get in Touch 📬
+
+
+- **[LinkedIn]** www.linkedin.com/in/ᴛʜᴀʀᴜʟ-ɴɪᴛʜᴡᴀʀᴀ
+
+
+
