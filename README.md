@@ -21,7 +21,7 @@ I'm an undergraduate student following AI & DS degree pathway at Informatics Ins
 ## Get in Touch 📬
 
 
-- **[LinkedIn]** https://www.linkedin.com/in/tharul-nithwara/
+- **[LinkedIn]** https://www.linkedin.com/in/tharul-fernando/
 
 
 
